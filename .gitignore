@@ -1,0 +1,13 @@
+# Ignorar el entorno virtual y archivos innecesarios
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+.DS_Store
+*.model
+*.ckpt
+*.bin
+.cache/
